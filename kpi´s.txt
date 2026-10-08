@@ -1,0 +1,10 @@
+KPI´s
+
+- Relatório de vendas por mês;
+- Ranking de cervejas mais vendidas;
+- Comida mais vendidas;
+- Ticket médio;
+- Valor couvert;
+- Ranking de formas de pagamento;
+- Faturamento total
+

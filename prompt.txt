@@ -1,0 +1,16 @@
+
+Utilizando o recurso do Canvas, renderize um dashboard em html ao lado.
+
+# Filtros
+	- Vendas por mês, com possibilidade de  escolher o inicio e fim do tempo filtrado.
+	- Produto vendidos	
+# KPI´s
+	- Qual o top 5 cervejas mais vendidas
+	- Quero um filtro de venda por mês
+	- Qual o valor total faturado Couvert pessoal
+	- Evolução do ticket médio ao mês
+	- Formas de pagamentos e seus números
+	
+	
+Sobre o UI/UX se baseie no Instagram oficial da hambugueria (https://www.instagram.com/seuporoca)
+
